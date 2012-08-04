@@ -1,0 +1,12 @@
+Hi Kids,
+
+Here is a little Android application to unlock the front door at Ace Monster Toys.
+
+It requires internet permissions as well as a working internet connection on your android device.
+For the door to actually unlock you will need to have previously configured username, password and door PIN on
+the Ace Monster Toys web server.
+
+All code is copyright by me (Adam Briggs) but provided to you under the Apache 2.0 license.
+See LICENSE for details and don't blame me if the guy's a nut.
+
+-atom
