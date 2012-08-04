@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMT Unlocker</string>
+    <string name="name_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="pin_text">Door PIN</string>
+    <string name="doit_text">Unlock!</string>
+    <string name="remember_login_string">Remember Login</string>
+    <string name="enter_password_string">Enter a Password</string>
+    <string name="enter_username_string">Enter a User Name</string>
+    <string name="enter_pin_string">Enter a 4-Digit PIN</string>
+    <string name="http_exception_string">Communication Error!</string>
+    <string name="auth_failure_string">Login Failed</string>
+</resources>
